@@ -3,11 +3,11 @@ This repo contains all public documentation for the SmartBots Playground API.
 
 SmartBots Bots Playground is a JavaScript sandbox to run your own programs to control your SmartBot.
 
-The Bots Playground is available here: play.mysmartbots.com
+The Bots Playground is available here: [play.mysmartbots.com](https://https://)
 
 ## Controlling bots with JavaScript
 
- ![](/api/attachments.redirect?id=ba7e2730-41db-4c5f-8aaa-522a7ddb8e08 " =2876x1334")
+ ![](uploads/fe746996-bd68-4ba8-a15e-e239ddd741be/ba7e2730-41db-4c5f-8aaa-522a7ddb8e08/image.png " =2876x1334")
 
 Playground runs programs written JavaScript. The pure javascript: with callbacks, functions, arrays and objects. The underlying javascript engine is NodeJS.
 
